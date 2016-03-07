@@ -1,4 +1,4 @@
-# Online-News-Popularity
+# Online News Popularity
 
 Comparing the performance of generalized linear model (glm), glm with penalized, boosted logistic regression,
 extreme gradient boosting, random forest, and SVM with Radial Basis Function Kernel in predicting online
