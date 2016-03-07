@@ -5,7 +5,7 @@ extreme gradient boosting, random forest, and SVM with Radial Basis Function Ker
 news popularity from the number of its shares in social media by using cross validation method. This project used Online News Popularity data set (2015) from UCI Machine Learning Repository.
 
 Data source:
-http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity)
+http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 
 Objective:
 To build model that best predict online news popularity from the number of its shares in social
